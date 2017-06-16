@@ -1,13 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2_Scripts/VRInteraction/VRInteraction.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/properties.cs">
     <Files>
       <File FileName="Assets/2_Scripts/Input/VRInput.cs" Line="1" Column="1" />
       <File FileName="Assets/2_Scripts/VRInteraction/HandController.cs" Line="1" Column="1" />
-      <File FileName="Assets/2_Scripts/VRInteraction/VRInteraction.cs" Line="21" Column="42" />
-      <File FileName="Assets/2_Scripts/Interactables/Disc_PickUp.cs" Line="15" Column="14" />
+      <File FileName="Assets/2_Scripts/VRInteraction/VRInteraction.cs" Line="1" Column="1" />
+      <File FileName="Assets/2_Scripts/Interactables/Disc_PickUp.cs" Line="1" Column="1" />
       <File FileName="Assets/2_Scripts/Interactables/Pickup.cs" Line="1" Column="1" />
       <File FileName="Assets/2_Scripts/Interactables/Pickup_Touch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/properties.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
