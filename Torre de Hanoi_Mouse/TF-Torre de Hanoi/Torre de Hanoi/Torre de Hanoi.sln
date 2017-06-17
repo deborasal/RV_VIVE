@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torre de Hanoi.Plugins", "Torre de Hanoi.Plugins.csproj", "{759F000E-49F6-6AD9-3B1E-E721D23CA514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torre de Hanoi", "Torre de Hanoi.csproj", "{475E9271-37B3-4F1D-2A6F-417C10DEE222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torre de Hanoi.Editor.Plugins", "Torre de Hanoi.Editor.Plugins.csproj", "{268C3BD8-7477-1E57-DC02-01A172433DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759F000E-49F6-6AD9-3B1E-E721D23CA514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759F000E-49F6-6AD9-3B1E-E721D23CA514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759F000E-49F6-6AD9-3B1E-E721D23CA514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759F000E-49F6-6AD9-3B1E-E721D23CA514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475E9271-37B3-4F1D-2A6F-417C10DEE222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475E9271-37B3-4F1D-2A6F-417C10DEE222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475E9271-37B3-4F1D-2A6F-417C10DEE222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475E9271-37B3-4F1D-2A6F-417C10DEE222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268C3BD8-7477-1E57-DC02-01A172433DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268C3BD8-7477-1E57-DC02-01A172433DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268C3BD8-7477-1E57-DC02-01A172433DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268C3BD8-7477-1E57-DC02-01A172433DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

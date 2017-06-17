@@ -1,0 +1,3 @@
+raio do buraco 0.4
+raio do maior cilindro 1.5
+altura 0.2
